@@ -18,7 +18,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/fabmade/php-nats-streaming"
+            "url": "https://github.com/fabmade/phpnats"
         },
         {
             "type": "package",
